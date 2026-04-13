@@ -1,0 +1,26 @@
+body {
+	background-color: rgba(194, 216, 108, 0.2);
+	color: rgb(50, 50, 50);
+	font-family: "Roboto", sans-serif;
+}
+h2,
+strong,
+em {
+	color: rgb(40 9 121);
+	font-family: "Playwrite IE", cursive;
+}
+section {
+	border-top: 1px solid rgb(40 9 121);
+}
+.signature {
+	font-family: "Playwrite IE", cursive;
+	text-align: right;
+}
+/* comment */
+.chapo {
+	background-color: rgb(125, 125, 125);
+	padding: 0 10px 0 10px;
+}
+.hidden {
+	display: none;
+}
